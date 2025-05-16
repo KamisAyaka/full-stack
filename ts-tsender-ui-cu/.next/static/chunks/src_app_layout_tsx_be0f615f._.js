@@ -1,0 +1,23 @@
+(globalThis.TURBOPACK_CHUNK_LISTS = globalThis.TURBOPACK_CHUNK_LISTS || []).push({
+    script: typeof document === "object" ? document.currentScript : undefined,
+    chunks: [
+  "static/chunks/_4cfb1f06._.css",
+  "static/chunks/node_modules__pnpm_aacdc4ff._.js",
+  "static/chunks/f07ee_next_f501d447._.js",
+  "static/chunks/166dc_@rainbow-me_rainbowkit_dist_6fb5ad6a._.js",
+  "static/chunks/4696d_@wagmi_core_dist_esm_6efd28a1._.js",
+  "static/chunks/39e2f_viem__esm_utils_e1ed96cc._.js",
+  "static/chunks/39e2f_viem__esm_errors_4e75aa8b._.js",
+  "static/chunks/39e2f_viem__esm_actions_83b530a3._.js",
+  "static/chunks/39e2f_viem__esm_c995ee29._.js",
+  "static/chunks/node_modules__pnpm_afc52eb8._.js",
+  "static/chunks/node_modules__pnpm_f2a4b097._.js",
+  "static/chunks/95c69_ox__esm_core_4d3f2652._.js",
+  "static/chunks/9db56_@tanstack_query-core_build_modern_4eb786fb._.js",
+  "static/chunks/b2692_react-icons_fa_index_mjs_290cc807._.js",
+  "static/chunks/b2692_react-icons_lib_d4addfaa._.js",
+  "static/chunks/node_modules__pnpm_dcc7586e._.js",
+  "static/chunks/src_fe578182._.js"
+],
+    source: "dynamic"
+});

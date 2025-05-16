@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///home/firefly/full-stack/ts-tsender-ui-cu/src/components/AirdropForm.tsx"],"sourcesContent":["import InputField from \"./ui/InputField\";\n\nexport default function AirdropForm() {\n  return (\n    <div>\n      <div>\n        <label htmlFor=\"address\">Address</label>\n        <input type=\"text\" id=\"address\" />\n      </div>\n      <div>\n        <label htmlFor=\"amount\">Amount</label>\n        <input type=\"text\" id=\"amount\" />\n      </div>\n      <button>Send</button>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAEe,SAAS;IACtB,qBACE,6WAAC;;0BACC,6WAAC;;kCACC,6WAAC;wBAAM,SAAQ;kCAAU;;;;;;kCACzB,6WAAC;wBAAM,MAAK;wBAAO,IAAG;;;;;;;;;;;;0BAExB,6WAAC;;kCACC,6WAAC;wBAAM,SAAQ;kCAAS;;;;;;kCACxB,6WAAC;wBAAM,MAAK;wBAAO,IAAG;;;;;;;;;;;;0BAExB,6WAAC;0BAAO;;;;;;;;;;;;AAGd","debugId":null}},
+    {"offset": {"line": 100, "column": 0}, "map": {"version":3,"sources":["file:///home/firefly/full-stack/ts-tsender-ui-cu/src/app/page.tsx"],"sourcesContent":["import AirdropForm from \"@/components/AirdropForm\";\nexport default function Home() {\n  return (\n    <div>\n      {\" \"}\n      <AirdropForm />\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;;;AACe,SAAS;IACtB,qBACE,6WAAC;;YACE;0BACD,6WAAC,iIAAA,CAAA,UAAW;;;;;;;;;;;AAGlB","debugId":null}}]
+}
